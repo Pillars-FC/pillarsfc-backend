@@ -39,6 +39,7 @@ from app.members.schemas import (
     MemberRegistrationCreate,
     MemberResponse,
     MembersResponse,
+    PreferredPosition,
 )
 from app.middlewares.rate_limit import limiter
 
@@ -210,8 +211,11 @@ async def list_members(
     skip: int = Query(default=0, ge=0),
     limit: int = Query(default=20, ge=1, le=100),
     search: str | None = Query(default=None, max_length=100),
+    preferred_position: PreferredPosition | None = Query(default=None),
 ) -> MembersResponse:
     query: dict[str, Any] = {"status": {"$in": ["active", "inactive"]}}
+    if preferred_position:
+        query["preferred_position"] = preferred_position
     if search and search.strip():
         term = re.escape(search.strip())
         query["$or"] = [
