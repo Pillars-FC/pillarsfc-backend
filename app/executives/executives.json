@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Ekot Jacques",
+        "position": "President",
+        "image": "https://example.com/images/john_doe.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Kesh",
+        "position": "Vice President",
+        "image": "https://example.com/images/john_doe.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Brownson",
+        "position": "Secretary",
+        "image": "https://example.com/images/john_doe.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ukeme Wilson",
+        "position": "Asst Secretary",
+        "image": "https://example.com/images/john_doe.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Califo",
+        "position": "Welfare/Tresurer",
+        "image": "https://example.com/images/john_doe.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Uwem",
+        "position": "Spokesperson",
+        "image": "https://example.com/images/john_doe.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Job Prince",
+        "position": "Club Captain",
+        "image": "https://example.com/images/john_doe.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Sammy",
+        "position": "First Aid/Media",
+        "image": "https://example.com/images/john_doe.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Ability",
+        "position": "Curator",
+        "image": "https://example.com/images/john_doe.jpg"
+    },
+    {
+        "id": 10,
+        "name": "ThankGod",
+        "position": "Auditor",
+        "image": "https://example.com/images/john_doe.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Papa",
+        "position": "Patron",
+        "image": "https://example.com/images/john_doe.jpg"
+    }
+]

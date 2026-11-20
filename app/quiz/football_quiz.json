@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "question": "Which country won the first-ever FIFA World Cup in 1930?",
+    "options": [
+      "Brazil",
+      "Uruguay",
+      "Argentina",
+      "Italy"
+    ],
+    "answer": "Uruguay"
+  },
+  {
+    "id": 2,
+    "question": "Who is the all-time top goalscorer in UEFA Champions League history?",
+    "options": [
+      "Lionel Messi",
+      "Robert Lewandowski",
+      "Cristiano Ronaldo",
+      "Karim Benzema"
+    ],
+    "answer": "Cristiano Ronaldo"
+  },
+  {
+    "id": 3,
+    "question": "Which club has won the most UEFA Champions League titles?",
+    "options": [
+      "AC Milan",
+      "Bayern Munich",
+      "Liverpool",
+      "Real Madrid"
+    ],
+    "answer": "Real Madrid"
+  },
+  {
+    "id": 4,
+    "question": "Who won the Ballon d'Or in 2023?",
+    "options": [
+      "Erling Haaland",
+      "Kylian Mbappé",
+      "Lionel Messi",
+      "Kevin De Bruyne"
+    ],
+    "answer": "Lionel Messi"
+  },
+  {
+    "id": 5,
+    "question": "Which player holds the record for the fastest hat-trick in Premier League history (2 minutes 56 seconds)?",
+    "options": [
+      "Sadio Mané",
+      "Robbie Fowler",
+      "Sergio Agüero",
+      "Mohamed Salah"
+    ],
+    "answer": "Sadio Mané"
+  },
+  {
+    "id": 6,
+    "question": "Which African nation was the first to reach a FIFA World Cup semi-final?",
+    "options": [
+      "Cameroon",
+      "Senegal",
+      "Ghana",
+      "Morocco"
+    ],
+    "answer": "Morocco"
+  },
+  {
+    "id": 7,
+    "question": "Who scored the 'Hand of God' goal in the 1986 World Cup?",
+    "options": [
+      "Pelé",
+      "Diego Maradona",
+      "Jorge Valdano",
+      "Gary Lineker"
+    ],
+    "answer": "Diego Maradona"
+  },
+  {
+    "id": 8,
+    "question": "Which team went unbeaten throughout the entire 2003–04 Premier League season?",
+    "options": [
+      "Manchester United",
+      "Chelsea",
+      "Arsenal",
+      "Liverpool"
+    ],
+    "answer": "Arsenal"
+  },
+  {
+    "id": 9,
+    "question": "Who is the all-time top scorer in Premier League history?",
+    "options": [
+      "Wayne Rooney",
+      "Harry Kane",
+      "Alan Shearer",
+      "Andy Cole"
+    ],
+    "answer": "Alan Shearer"
+  },
+  {
+    "id": 10,
+    "question": "Which country has won the most FIFA World Cup titles?",
+    "options": [
+      "Germany",
+      "Italy",
+      "Argentina",
+      "Brazil"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": 11,
+    "question": "Who won the Golden Boot at the 2022 FIFA World Cup?",
+    "options": [
+      "Lionel Messi",
+      "Kylian Mbappé",
+      "Julián Álvarez",
+      "Olivier Giroud"
+    ],
+    "answer": "Kylian Mbappé"
+  },
+  {
+    "id": 12,
+    "question": "Which goalkeeper has won the most Premier League Golden Glove awards?",
+    "options": [
+      "Petr Čech",
+      "Joe Hart",
+      "David de Gea",
+      "Alisson Becker"
+    ],
+    "answer": "Petr Čech"
+  },
+  {
+    "id": 13,
+    "question": "In what year was the Premier League founded?",
+    "options": [
+      "1990",
+      "1992",
+      "1994",
+      "1988"
+    ],
+    "answer": "1992"
+  },
+  {
+    "id": 14,
+    "question": "Who scored the winning goal for Spain in the 2010 World Cup final?",
+    "options": [
+      "David Villa",
+      "Fernando Torres",
+      "Andrés Iniesta",
+      "Xavi"
+    ],
+    "answer": "Andrés Iniesta"
+  },
+  {
+    "id": 15,
+    "question": "Which player was famously headbutted by Zinedine Zidane in the 2006 World Cup final?",
+    "options": [
+      "Fabio Cannavaro",
+      "Marco Materazzi",
+      "Gennaro Gattuso",
+      "Andrea Pirlo"
+    ],
+    "answer": "Marco Materazzi"
+  },
+  {
+    "id": 16,
+    "question": "Which club is known as 'The Old Lady' (La Vecchia Signora)?",
+    "options": [
+      "AC Milan",
+      "Inter Milan",
+      "Juventus",
+      "AS Roma"
+    ],
+    "answer": "Juventus"
+  },
+  {
+    "id": 17,
+    "question": "Who is the only player to have won three FIFA World Cups?",
+    "options": [
+      "Pelé",
+      "Cafu",
+      "Ronaldo Nazário",
+      "Franz Beckenbauer"
+    ],
+    "answer": "Pelé"
+  },
+  {
+    "id": 18,
+    "question": "Which Nigerian player won the African Footballer of the Year award in 2023?",
+    "options": [
+      "Victor Osimhen",
+      "Ademola Lookman",
+      "Wilfred Ndidi",
+      "Samuel Chukwueze"
+    ],
+    "answer": "Victor Osimhen"
+  },
+  {
+    "id": 19,
+    "question": "Which stadium is the home ground of Borussia Dortmund?",
+    "options": [
+      "Allianz Arena",
+      "Signal Iduna Park",
+      "Olympiastadion",
+      "Red Bull Arena"
+    ],
+    "answer": "Signal Iduna Park"
+  },
+  {
+    "id": 20,
+    "question": "Who holds the record for the most goals scored in a single calendar year (91 goals in 2012)?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Gerd Müller",
+      "Robert Lewandowski"
+    ],
+    "answer": "Lionel Messi"
+  },
+  {
+    "id": 21,
+    "question": "Which manager won the UEFA Champions League with both FC Porto and Inter Milan?",
+    "options": [
+      "Carlo Ancelotti",
+      "Pep Guardiola",
+      "José Mourinho",
+      "Jürgen Klopp"
+    ],
+    "answer": "José Mourinho"
+  },
+  {
+    "id": 22,
+    "question": "Which country hosted the 2010 FIFA World Cup?",
+    "options": [
+      "Brazil",
+      "Germany",
+      "South Africa",
+      "Russia"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "id": 23,
+    "question": "Who is the only goalkeeper to have won the Ballon d'Or?",
+    "options": [
+      "Gianluigi Buffon",
+      "Manuel Neuer",
+      "Lev Yashin",
+      "Iker Casillas"
+    ],
+    "answer": "Lev Yashin"
+  },
+  {
+    "id": 24,
+    "question": "Which English club won the 'Treble' in the 1998–99 season?",
+    "options": [
+      "Liverpool",
+      "Manchester United",
+      "Arsenal",
+      "Chelsea"
+    ],
+    "answer": "Manchester United"
+  },
+  {
+    "id": 25,
+    "question": "Who is the all-time top goalscorer in FIFA World Cup finals history?",
+    "options": [
+      "Ronaldo Nazário",
+      "Miroslav Klose",
+      "Pelé",
+      "Just Fontaine"
+    ],
+    "answer": "Miroslav Klose"
+  },
+  {
+    "id": 26,
+    "question": "Which country won UEFA Euro 2024?",
+    "options": [
+      "England",
+      "France",
+      "Spain",
+      "Germany"
+    ],
+    "answer": "Spain"
+  },
+  {
+    "id": 27,
+    "question": "Who scored a famous bicycle kick for Real Madrid against Juventus in the 2018 Champions League?",
+    "options": [
+      "Gareth Bale",
+      "Cristiano Ronaldo",
+      "Karim Benzema",
+      "Sergio Ramos"
+    ],
+    "answer": "Cristiano Ronaldo"
+  },
+  {
+    "id": 28,
+    "question": "Which club won the 2015–16 Premier League title against 5000-1 odds?",
+    "options": [
+      "Leicester City",
+      "Blackburn Rovers",
+      "West Ham United",
+      "Newcastle United"
+    ],
+    "answer": "Leicester City"
+  },
+  {
+    "id": 29,
+    "question": "Which player has made the most appearances in Premier League history?",
+    "options": [
+      "Ryan Giggs",
+      "Gareth Barry",
+      "James Milner",
+      "Frank Lampard"
+    ],
+    "answer": "Gareth Barry"
+  },
+  {
+    "id": 30,
+    "question": "Who won the Ballon d'Or in 2024?",
+    "options": [
+      "Vinícius Júnior",
+      "Rodri",
+      "Jude Bellingham",
+      "Erling Haaland"
+    ],
+    "answer": "Rodri"
+  },
+  {
+    "id": 31,
+    "question": "Which team won the first-ever European Cup (now UEFA Champions League) in 1956?",
+    "options": [
+      "Benfica",
+      "AC Milan",
+      "Real Madrid",
+      "Reims"
+    ],
+    "answer": "Real Madrid"
+  },
+  {
+    "id": 32,
+    "question": "Which country has won the most Africa Cup of Nations (AFCON) titles?",
+    "options": [
+      "Cameroon",
+      "Ghana",
+      "Nigeria",
+      "Egypt"
+    ],
+    "answer": "Egypt"
+  },
+  {
+    "id": 33,
+    "question": "Who scored the 'Aguerooooo' title-winning goal for Manchester City in 2012?",
+    "options": [
+      "Edin Džeko",
+      "Carlos Tevez",
+      "Sergio Agüero",
+      "David Silva"
+    ],
+    "answer": "Sergio Agüero"
+  },
+  {
+    "id": 34,
+    "question": "Which Dutch legend is famous for pioneering 'Total Football' and the 'Cruyff Turn'?",
+    "options": [
+      "Marco van Basten",
+      "Ruud Gullit",
+      "Johan Cruyff",
+      "Dennis Bergkamp"
+    ],
+    "answer": "Johan Cruyff"
+  },
+  {
+    "id": 35,
+    "question": "Who holds the record for the most assists in Premier League history?",
+    "options": [
+      "Kevin De Bruyne",
+      "Cesc Fàbregas",
+      "Ryan Giggs",
+      "Wayne Rooney"
+    ],
+    "answer": "Ryan Giggs"
+  },
+  {
+    "id": 36,
+    "question": "Which club did Lionel Messi join in 2023 after leaving Paris Saint-Germain?",
+    "options": [
+      "Al-Hilal",
+      "Inter Miami",
+      "Newell's Old Boys",
+      "FC Barcelona"
+    ],
+    "answer": "Inter Miami"
+  },
+  {
+    "id": 37,
+    "question": "Which manager has won the most UEFA Champions League titles as a coach?",
+    "options": [
+      "Sir Alex Ferguson",
+      "Pep Guardiola",
+      "Carlo Ancelotti",
+      "Zinedine Zidane"
+    ],
+    "answer": "Carlo Ancelotti"
+  },
+  {
+    "id": 38,
+    "question": "What is the nickname of the Nigerian national men's football team?",
+    "options": [
+      "Black Stars",
+      "Indomitable Lions",
+      "Super Eagles",
+      "Pharaohs"
+    ],
+    "answer": "Super Eagles"
+  },
+  {
+    "id": 39,
+    "question": "Which player scored 13 goals in a single World Cup tournament in 1958?",
+    "options": [
+      "Pelé",
+      "Just Fontaine",
+      "Gerd Müller",
+      "Eusébio"
+    ],
+    "answer": "Just Fontaine"
+  },
+  {
+    "id": 40,
+    "question": "Which club is based at Anfield?",
+    "options": [
+      "Everton",
+      "Liverpool",
+      "Manchester United",
+      "Newcastle United"
+    ],
+    "answer": "Liverpool"
+  },
+  {
+    "id": 41,
+    "question": "Who won the Golden Boy award in 2023?",
+    "options": [
+      "Jude Bellingham",
+      "Jamal Musiala",
+      "Gavi",
+      "Lamine Yamal"
+    ],
+    "answer": "Jude Bellingham"
+  },
+  {
+    "id": 42,
+    "question": "Which country won the 2014 FIFA World Cup in Brazil?",
+    "options": [
+      "Argentina",
+      "Germany",
+      "Netherlands",
+      "Spain"
+    ],
+    "answer": "Germany"
+  },
+  {
+    "id": 43,
+    "question": "Which club did Cristiano Ronaldo start his senior professional career at?",
+    "options": [
+      "Manchester United",
+      "Benfica",
+      "Sporting CP",
+      "FC Porto"
+    ],
+    "answer": "Sporting CP"
+  },
+  {
+    "id": 44,
+    "question": "Who scored the fastest goal in FIFA World Cup history (11 seconds)?",
+    "options": [
+      "Hakan Şükür",
+      "Clint Dempsey",
+      "Bryan Robson",
+      "Kylian Mbappé"
+    ],
+    "answer": "Hakan Şükür"
+  },
+  {
+    "id": 45,
+    "question": "Which stadium is known as 'The Theatre of Dreams'?",
+    "options": [
+      "Wembley Stadium",
+      "Old Trafford",
+      "Stamford Bridge",
+      "Emirates Stadium"
+    ],
+    "answer": "Old Trafford"
+  },
+  {
+    "id": 46,
+    "question": "Who is the all-time top goalscorer for the Brazil national team?",
+    "options": [
+      "Pelé",
+      "Ronaldo Nazário",
+      "Neymar Jr.",
+      "Romário"
+    ],
+    "answer": "Neymar Jr."
+  },
+  {
+    "id": 47,
+    "question": "Which player won the Ballon d'Or in 2018, breaking the Messi-Ronaldo dominance?",
+    "options": [
+      "Antoine Griezmann",
+      "Luka Modrić",
+      "Kylian Mbappé",
+      "Mohamed Salah"
+    ],
+    "answer": "Luka Modrić"
+  },
+  {
+    "id": 48,
+    "question": "Which Italian club won five consecutive Serie A titles between 2012 and 2020 (nine in total)?",
+    "options": [
+      "AC Milan",
+      "Inter Milan",
+      "Napoli",
+      "Juventus"
+    ],
+    "answer": "Juventus"
+  },
+  {
+    "id": 49,
+    "question": "Who was the captain of France when they won the 1998 FIFA World Cup?",
+    "options": [
+      "Zinedine Zidane",
+      "Didier Deschamps",
+      "Laurent Blanc",
+      "Marcel Desailly"
+    ],
+    "answer": "Didier Deschamps"
+  },
+  {
+    "id": 50,
+    "question": "Which team won the 2023–24 UEFA Champions League?",
+    "options": [
+      "Borussia Dortmund",
+      "Real Madrid",
+      "Manchester City",
+      "Bayern Munich"
+    ],
+    "answer": "Real Madrid"
+  },
+  {
+    "id": 51,
+    "question": "Who holds the record for the most goals in a single Premier League season (36 goals in 2022–23)?",
+    "options": [
+      "Mohamed Salah",
+      "Alan Shearer",
+      "Erling Haaland",
+      "Andy Cole"
+    ],
+    "answer": "Erling Haaland"
+  },
+  {
+    "id": 52,
+    "question": "Which African player won the Ballon d'Or in 1995?",
+    "options": [
+      "Samuel Eto'o",
+      "Didier Drogba",
+      "George Weah",
+      "Yaya Touré"
+    ],
+    "answer": "George Weah"
+  },
+  {
+    "id": 53,
+    "question": "Which two clubs contest 'El Clásico' in Spain?",
+    "options": [
+      "Real Madrid & Atlético Madrid",
+      "Barcelona & Espanyol",
+      "Real Madrid & Barcelona",
+      "Sevilla & Real Betis"
+    ],
+    "answer": "Real Madrid & Barcelona"
+  },
+  {
+    "id": 54,
+    "question": "Which country won UEFA Euro 2016?",
+    "options": [
+      "France",
+      "Portugal",
+      "Germany",
+      "Wales"
+    ],
+    "answer": "Portugal"
+  },
+  {
+    "id": 55,
+    "question": "Who scored two goals in the 2002 FIFA World Cup final for Brazil?",
+    "options": [
+      "Rivaldo",
+      "Ronaldinho",
+      "Ronaldo Nazário",
+      "Kaká"
+    ],
+    "answer": "Ronaldo Nazário"
+  },
+  {
+    "id": 56,
+    "question": "Which club won the 2023 Africa Cup of Nations (played in early 2024)?",
+    "options": [
+      "Nigeria",
+      "Ivory Coast",
+      "South Africa",
+      "DR Congo"
+    ],
+    "answer": "Ivory Coast"
+  },
+  {
+    "id": 57,
+    "question": "Who is the all-time top goalscorer for the England men's national team?",
+    "options": [
+      "Wayne Rooney",
+      "Bobby Charlton",
+      "Harry Kane",
+      "Gary Lineker"
+    ],
+    "answer": "Harry Kane"
+  },
+  {
+    "id": 58,
+    "question": "Which German club has won the most Bundesliga titles?",
+    "options": [
+      "Borussia Dortmund",
+      "Bayern Munich",
+      "Hamburger SV",
+      "Werder Bremen"
+    ],
+    "answer": "Bayern Munich"
+  },
+  {
+    "id": 59,
+    "question": "What was the score in the infamous 2014 World Cup semi-final between Brazil and Germany?",
+    "options": [
+      "5–0 to Germany",
+      "6–1 to Germany",
+      "7–1 to Germany",
+      "4–0 to Germany"
+    ],
+    "answer": "7–1 to Germany"
+  },
+  {
+    "id": 60,
+    "question": "Which defender won the Ballon d'Or in 2006?",
+    "options": [
+      "Paolo Maldini",
+      "Fabio Cannavaro",
+      "Sergio Ramos",
+      "Alessandro Nesta"
+    ],
+    "answer": "Fabio Cannavaro"
+  },
+  {
+    "id": 61,
+    "question": "Which club won the treble in the 2022–23 season?",
+    "options": [
+      "Real Madrid",
+      "Bayern Munich",
+      "Manchester City",
+      "Inter Milan"
+    ],
+    "answer": "Manchester City"
+  },
+  {
+    "id": 62,
+    "question": "Who is the youngest player to ever score at a UEFA European Championship?",
+    "options": [
+      "Wayne Rooney",
+      "Lamine Yamal",
+      "Jude Bellingham",
+      "Renato Sanches"
+    ],
+    "answer": "Lamine Yamal"
+  },
+  {
+    "id": 63,
+    "question": "Which country won the 1966 FIFA World Cup?",
+    "options": [
+      "West Germany",
+      "England",
+      "Brazil",
+      "Portugal"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": 64,
+    "question": "Which player is famous for the 'Panenka' penalty kick style?",
+    "options": [
+      "Antonín Panenka",
+      "Andrea Pirlo",
+      "Zinedine Zidane",
+      "Sergio Ramos"
+    ],
+    "answer": "Antonín Panenka"
+  },
+  {
+    "id": 65,
+    "question": "Which club plays its home matches at the San Siro (Stadio Giuseppe Meazza)?",
+    "options": [
+      "Juventus & Torino",
+      "AC Milan & Inter Milan",
+      "AS Roma & Lazio",
+      "Napoli & Fiorentina"
+    ],
+    "answer": "AC Milan & Inter Milan"
+  },
+  {
+    "id": 66,
+    "question": "Who won the FIFA Puskás Award in 2018 for a goal against Everton?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Gareth Bale",
+      "Mohamed Salah",
+      "Lionel Messi"
+    ],
+    "answer": "Mohamed Salah"
+  },
+  {
+    "id": 67,
+    "question": "Which French club won the only UEFA Champions League title by a French team (in 1993)?",
+    "options": [
+      "Paris Saint-Germain",
+      "AS Monaco",
+      "Olympique de Marseille",
+      "Olympique Lyonnais"
+    ],
+    "answer": "Olympique de Marseille"
+  },
+  {
+    "id": 68,
+    "question": "Who is the only player to score in two separate World Cup finals AND win a hat-trick in a World Cup final?",
+    "options": [
+      "Geoff Hurst",
+      "Kylian Mbappé",
+      "Pelé",
+      "Zinedine Zidane"
+    ],
+    "answer": "Kylian Mbappé"
+  },
+  {
+    "id": 69,
+    "question": "Which manager managed Arsenal for 22 years from 1996 to 2018?",
+    "options": [
+      "George Graham",
+      "Arsène Wenger",
+      "Unai Emery",
+      "Mikel Arteta"
+    ],
+    "answer": "Arsène Wenger"
+  },
+  {
+    "id": 70,
+    "question": "Which player holds the record for the most international goals in men's football?",
+    "options": [
+      "Ali Daei",
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Ferenc Puskás"
+    ],
+    "answer": "Cristiano Ronaldo"
+  },
+  {
+    "id": 71,
+    "question": "Which country won the 2021 Copa América?",
+    "options": [
+      "Brazil",
+      "Argentina",
+      "Colombia",
+      "Uruguay"
+    ],
+    "answer": "Argentina"
+  },
+  {
+    "id": 72,
+    "question": "Who scored the 'Ghost Goal' for Liverpool against Chelsea in the 2005 Champions League semi-final?",
+    "options": [
+      "Steven Gerrard",
+      "Luis García",
+      "Xabi Alonso",
+      "Milan Baroš"
+    ],
+    "answer": "Luis García"
+  },
+  {
+    "id": 73,
+    "question": "Which club is nicknamed 'The Gunners'?",
+    "options": [
+      "Chelsea",
+      "West Ham United",
+      "Arsenal",
+      "Tottenham Hotspur"
+    ],
+    "answer": "Arsenal"
+  },
+  {
+    "id": 74,
+    "question": "Who won the UEFA Men's Player of the Year award in 2023?",
+    "options": [
+      "Lionel Messi",
+      "Kevin De Bruyne",
+      "Erling Haaland",
+      "Rodri"
+    ],
+    "answer": "Erling Haaland"
+  },
+  {
+    "id": 75,
+    "question": "Which country has won the most Copa América titles?",
+    "options": [
+      "Brazil",
+      "Uruguay",
+      "Argentina",
+      "Chile"
+    ],
+    "answer": "Argentina"
+  },
+  {
+    "id": 76,
+    "question": "Who was the first British player to win the Ballon d'Or?",
+    "options": [
+      "Bobby Charlton",
+      "George Best",
+      "Stanley Matthews",
+      "Denis Law"
+    ],
+    "answer": "Stanley Matthews"
+  },
+  {
+    "id": 77,
+    "question": "Which club did Zlatan Ibrahimović NOT play for during his career?",
+    "options": [
+      "FC Barcelona",
+      "AC Milan",
+      "Real Madrid",
+      "Manchester United"
+    ],
+    "answer": "Real Madrid"
+  },
+  {
+    "id": 78,
+    "question": "Which stadium hosted the 2022 FIFA World Cup final?",
+    "options": [
+      "Al Bayt Stadium",
+      "Lusail Stadium",
+      "Khalifa International Stadium",
+      "Education City Stadium"
+    ],
+    "answer": "Lusail Stadium"
+  },
+  {
+    "id": 79,
+    "question": "Who scored the fastest hat-trick in UEFA Champions League history (6 minutes 12 seconds)?",
+    "options": [
+      "Robert Lewandowski",
+      "Mohamed Salah",
+      "Cristiano Ronaldo",
+      "Bafétimbi Gomis"
+    ],
+    "answer": "Mohamed Salah"
+  },
+  {
+    "id": 80,
+    "question": "Which team came back from 3–0 down at halftime to win the 2005 UEFA Champions League final on penalties?",
+    "options": [
+      "AC Milan",
+      "Liverpool",
+      "Manchester United",
+      "Barcelona"
+    ],
+    "answer": "Liverpool"
+  },
+  {
+    "id": 81,
+    "question": "Which Nigerian striker won the Serie A Golden Boot (Capocannoniere) in the 2022–23 season?",
+    "options": [
+      "Obafemi Martins",
+      "Victor Osimhen",
+      "Nwankwo Kanu",
+      "Yakubu Aiyegbeni"
+    ],
+    "answer": "Victor Osimhen"
+  },
+  {
+    "id": 82,
+    "question": "Who is the only player to have won the Premier League with both Leicester City and Chelsea in consecutive seasons?",
+    "options": [
+      "Riyad Mahrez",
+      "N'Golo Kanté",
+      "Danny Drinkwater",
+      "Ben Chilwell"
+    ],
+    "answer": "N'Golo Kanté"
+  },
+  {
+    "id": 83,
+    "question": "Which country won UEFA Euro 2004 in one of the biggest upsets in football history?",
+    "options": [
+      "Portugal",
+      "Czech Republic",
+      "Greece",
+      "Denmark"
+    ],
+    "answer": "Greece"
+  },
+  {
+    "id": 84,
+    "question": "Who holds the record for the most red cards in football history (46 red cards)?",
+    "options": [
+      "Sergio Ramos",
+      "Gerardo Bedoya",
+      "Pepe",
+      "Edgar Davids"
+    ],
+    "answer": "Gerardo Bedoya"
+  },
+  {
+    "id": 85,
+    "question": "Which club won the 2023–24 German Bundesliga unbeaten?",
+    "options": [
+      "Bayern Munich",
+      "Borussia Dortmund",
+      "Bayer Leverkusen",
+      "RB Leipzig"
+    ],
+    "answer": "Bayer Leverkusen"
+  },
+  {
+    "id": 86,
+    "question": "Who is the all-time top goalscorer for Real Madrid?",
+    "options": [
+      "Raúl",
+      "Karim Benzema",
+      "Cristiano Ronaldo",
+      "Alfredo Di Stéfano"
+    ],
+    "answer": "Cristiano Ronaldo"
+  },
+  {
+    "id": 87,
+    "question": "Which country won the 1994 FIFA World Cup in the United States?",
+    "options": [
+      "Italy",
+      "Brazil",
+      "Sweden",
+      "Bulgaria"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": 88,
+    "question": "Who missed the decisive penalty for Italy in the 1994 World Cup final shootout?",
+    "options": [
+      "Franco Baresi",
+      "Roberto Baggio",
+      "Paolo Maldini",
+      "Daniele Massaro"
+    ],
+    "answer": "Roberto Baggio"
+  },
+  {
+    "id": 89,
+    "question": "Which player won four consecutive Ballon d'Or awards between 2009 and 2012?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Andrés Iniesta",
+      "Xavi"
+    ],
+    "answer": "Lionel Messi"
+  },
+  {
+    "id": 90,
+    "question": "Which Scottish club won the European Cup in 1967, becoming the first British club to do so?",
+    "options": [
+      "Rangers",
+      "Celtic",
+      "Aberdeen",
+      "Dundee United"
+    ],
+    "answer": "Celtic"
+  },
+  {
+    "id": 91,
+    "question": "Who scored the winning goal for Germany in the 2014 FIFA World Cup final?",
+    "options": [
+      "Thomas Müller",
+      "Mario Götze",
+      "Mesut Özil",
+      "Toni Kroos"
+    ],
+    "answer": "Mario Götze"
+  },
+  {
+    "id": 92,
+    "question": "Which club is known as 'Los Colchoneros' (The Mattress Makers)?",
+    "options": [
+      "Real Madrid",
+      "Atlético Madrid",
+      "Valencia",
+      "Athletic Bilbao"
+    ],
+    "answer": "Atlético Madrid"
+  },
+  {
+    "id": 93,
+    "question": "Who won the Olympic gold medal in men's football at the 1996 Atlanta Games?",
+    "options": [
+      "Brazil",
+      "Argentina",
+      "Nigeria",
+      "Cameroon"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "id": 94,
+    "question": "Which player holds the record for the most consecutive Premier League appearances (310 games)?",
+    "options": [
+      "Frank Lampard",
+      "Brad Friedel",
+      "David James",
+      "Wayne Rooney"
+    ],
+    "answer": "Brad Friedel"
+  },
+  {
+    "id": 95,
+    "question": "Which club did Pep Guardiola manage before joining Bayern Munich in 2013?",
+    "options": [
+      "Manchester City",
+      "FC Barcelona",
+      "Ajax",
+      "AC Milan"
+    ],
+    "answer": "FC Barcelona"
+  },
+  {
+    "id": 96,
+    "question": "Who scored a hat-trick for Atalanta in the 2024 UEFA Europa League final?",
+    "options": [
+      "Gianluca Scamacca",
+      "Ademola Lookman",
+      "Teun Koopmeiners",
+      "Charles De Ketelaere"
+    ],
+    "answer": "Ademola Lookman"
+  },
+  {
+    "id": 97,
+    "question": "Which country hosted the 1998 FIFA World Cup?",
+    "options": [
+      "Italy",
+      "United States",
+      "France",
+      "South Korea & Japan"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": 98,
+    "question": "Who is the only player to score in five different FIFA World Cup tournaments?",
+    "options": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Pelé",
+      "Miroslav Klose"
+    ],
+    "answer": "Cristiano Ronaldo"
+  },
+  {
+    "id": 99,
+    "question": "Which English club has won the most top-flight league titles (20 titles, tied with Manchester United)?",
+    "options": [
+      "Arsenal",
+      "Liverpool",
+      "Chelsea",
+      "Everton"
+    ],
+    "answer": "Liverpool"
+  },
+  {
+    "id": 100,
+    "question": "What is the standard duration of a regular professional football match (excluding stoppage time and extra time)?",
+    "options": [
+      "80 minutes",
+      "90 minutes",
+      "100 minutes",
+      "120 minutes"
+    ],
+    "answer": "90 minutes"
+  }
+]
