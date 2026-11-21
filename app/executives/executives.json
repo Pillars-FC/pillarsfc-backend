@@ -3,66 +3,66 @@
         "id": 1,
         "name": "Ikot Jacques",
         "position": "President",
-        "image": "https://example.com/images/john_doe.jpg"
+        "image": "/executives/ikot.jpeg"
     },
     {
         "id": 2,
         "name": "Kesh",
         "position": "Vice President",
-        "image": "https://example.com/images/john_doe.jpg"
+        "image": "/executives/kesh.jpeg"
     },
     {
         "id": 3,
         "name": "Brownson",
         "position": "Secretary",
-        "image": "https://example.com/images/john_doe.jpg"
+        "image": ""
     },
     {
         "id": 4,
         "name": "Ukeme Wilson",
         "position": "Asst Secretary",
-        "image": "https://example.com/images/john_doe.jpg"
+        "image": "/executives/ukeme.jpeg"
     },
     {
         "id": 5,
         "name": "Califo",
         "position": "Welfare/Tresurer",
-        "image": "https://example.com/images/john_doe.jpg"
+        "image": "/executives/califo.jpeg"
     },
     {
         "id": 6,
         "name": "Uwem",
         "position": "Spokesperson",
-        "image": "https://example.com/images/john_doe.jpg"
+        "image": "/executives/uwem.jpeg"
     },
     {
         "id": 7,
         "name": "Job Prince",
         "position": "Club Captain",
-        "image": "https://example.com/images/john_doe.jpg"
+        "image": ""
     },
     {
         "id": 8,
         "name": "Sammy",
         "position": "First Aid/Media",
-        "image": "https://example.com/images/john_doe.jpg"
+        "image": "/executives/sammy.jpeg"
     },
     {
         "id": 9,
         "name": "Ability",
         "position": "Curator",
-        "image": "https://example.com/images/john_doe.jpg"
+        "image": "/executives/ability.jpeg"
     },
     {
         "id": 10,
         "name": "ThankGod",
         "position": "Auditor",
-        "image": "https://example.com/images/john_doe.jpg"
+        "image": "/executives/thankgod.jpeg"
     },
     {
         "id": 11,
         "name": "Papa",
         "position": "Patron",
-        "image": "https://example.com/images/john_doe.jpg"
+        "image": "/executives/papa.jpeg"
     }
 ]
